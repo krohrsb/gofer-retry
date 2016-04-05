@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/gofer-retry.svg)](https://www.npmjs.com/package/gofer-retry) [![npm](https://img.shields.io/npm/dm/gofer-retry.svg)](https://www.npmjs.com/package/gofer-retry) [![npm](https://img.shields.io/npm/l/gofer-retry.svg)](https://www.npmjs.com/package/gofer-retry)
+[![Travis](https://img.shields.io/travis/blackbarn/gofer-retry.svg)](https://travis-ci.org/blackbarn/gofer-retry)
 # Gofer Retry
 
 Gofer Retry simply adds the capability to use [retry](https://github.com/tim-kos/node-retry). It extends [Gofer](https://github.com/groupon/gofer).
