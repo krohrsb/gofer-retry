@@ -7,6 +7,10 @@
     "test": "lab -t 50 --lint --linter eslint test",
     "lint": "eslint -c .eslintrc lib"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:blackbarn/gofer-retry.git"
+  },
   "keywords": [
     "gofer",
     "retry",
