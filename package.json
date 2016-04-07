@@ -1,6 +1,6 @@
 {
   "name": "gofer-retry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gofer API's with Retry!",
   "main": "lib/index.js",
   "scripts": {
