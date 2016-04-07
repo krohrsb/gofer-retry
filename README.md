@@ -2,6 +2,8 @@
 [![Travis](https://img.shields.io/travis/blackbarn/gofer-retry.svg)](https://travis-ci.org/blackbarn/gofer-retry)
 # Gofer Retry
 
+[![Join the chat at https://gitter.im/blackbarn/gofer-retry](https://badges.gitter.im/blackbarn/gofer-retry.svg)](https://gitter.im/blackbarn/gofer-retry?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Gofer Retry simply adds the capability to use [retry](https://github.com/tim-kos/node-retry). It extends [Gofer](https://github.com/groupon/gofer).
 
 # Caveat
