@@ -1,11 +1,12 @@
 {
   "name": "gofer-retry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gofer API's with Retry!",
   "main": "lib/index.js",
   "scripts": {
-    "test": "lab -t 50 --lint --linter eslint test",
-    "lint": "eslint -c .eslintrc lib"
+    "test": "lab -t 40 --lint --linter eslint test",
+    "test-cov-html": "lab -r html -o artifacts/coverage.html --lint --linter eslint test",
+    "lint": "eslint -c .eslintrc lib test"
   },
   "repository": {
     "type": "git",
