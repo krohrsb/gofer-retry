@@ -1,5 +1,6 @@
 [![npm](https://img.shields.io/npm/v/gofer-retry.svg)](https://www.npmjs.com/package/gofer-retry) [![npm](https://img.shields.io/npm/dm/gofer-retry.svg)](https://www.npmjs.com/package/gofer-retry) [![npm](https://img.shields.io/npm/l/gofer-retry.svg)](https://www.npmjs.com/package/gofer-retry)
 [![Travis](https://img.shields.io/travis/blackbarn/gofer-retry.svg)](https://travis-ci.org/blackbarn/gofer-retry)
+[![Coverage Status](https://coveralls.io/repos/github/blackbarn/gofer-retry/badge.svg?branch=develop)](https://coveralls.io/github/blackbarn/gofer-retry?branch=develop)
 [![Gitter](https://badges.gitter.im/blackbarn/gofer-retry.svg)](https://gitter.im/blackbarn/gofer-retry?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Gofer Retry
