@@ -1,3 +1,4 @@
 language: node_js
+script: npm run test-coveralls
 node_js:
   - 4.0.0

@@ -6,6 +6,7 @@
   "scripts": {
     "test": "lab -t 40 --lint --linter eslint test",
     "test-cov-html": "lab -r html -o artifacts/coverage.html --lint --linter eslint test",
+    "test-coveralls": "lab -r lcov test | coveralls",
     "lint": "eslint -c .eslintrc lib test"
   },
   "repository": {
@@ -26,6 +27,7 @@
   },
   "devDependencies": {
     "code": "^2.1.1",
+    "coveralls": "^2.11.9",
     "eslint": "^2.7.0",
     "eslint-config-defaults": "^9.0.0",
     "lab": "^10.3.0"
